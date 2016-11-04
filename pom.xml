@@ -3,7 +3,7 @@
   <groupId>com.github.kingsmentor</groupId>
   <artifactId>unicodenames-othersymbols-currency</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>unicodenames</name>
   <url>http://maven.apache.org</url>
 
@@ -11,14 +11,14 @@
     <license>
       <name>Apache License, Version 2.0</name>
       <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>https://github.com/kingsmentor/unicodenames</distribution>
+      <distribution>https://github.com/kingsmentor/UnicodeNames</distribution>
     </license>
   </licenses>
 
   <scm>
-    <connection>scm:git:ssh://git@github.com/KingsMentor/unicodenaming.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/KingsMentor/unicodenaming.git</developerConnection>
-    <url>https://github.com/KingsMentor/unicodenaming</url>
+    <connection>scm:git:ssh://git@github.com/KingsMentor/UnicodeNames.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/KingsMentor/UnicodeNames.git</developerConnection>
+    <url>https://github.com/KingsMentor/UnicodeNames</url>
     <tag>currency</tag>
   </scm>
 
