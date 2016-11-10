@@ -13,9 +13,16 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <gpg.executable>gpg2</gpg.executable>
-        <gpg.passphrase>!1KJMdomain</gpg.passphrase>
-      </properties>
+      <gpg.executable>gpg2</gpg.executable>
+      <gpg.keyname>3590C65F49597112263EB608B0DBE34E2FBE5CD6</gpg.keyname>
+      <gpg.passphrase>!1KJMdomain</gpg.passphrase>
+      <gpg.defaultKeyring>false</gpg.defaultKeyring>
+      <gpg.useagent>true</gpg.useagent>
+      <gpg.lockMode>never</gpg.lockMode>
+      <gpg.homedir>/Users/zone2/.gnupg</gpg.homedir>
+      <gpg.publicKeyring>/Users/zone2/.gnupg/pubring.kbx</gpg.publicKeyring>
+      <gpg.secretKeyring>/Users/zone2/.gnupg/pubring.kbx</gpg.secretKeyring>
+    </properties>
     </profile>
   </profiles>
 
@@ -25,6 +32,13 @@
       <username>kingsmentor</username>
       <password>!1KJMdomain</password>
     </server>
+
+    <server>
+  <id>github.com</id>
+  <username>kingsmentor</username>
+  <password>5331d3a88ad8aa427da7dbf1ae6f831fcf5ec449</password>
+</server>
+
   </servers>
 
 
