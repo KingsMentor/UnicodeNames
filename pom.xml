@@ -4,7 +4,7 @@
         <groupId>com.github.kingsmentor</groupId>
         <artifactId>unicodenames-othersymbols-currency</artifactId>
         <packaging>jar</packaging>
-        <version>1.0</version>
+        <version>1.1-SNAPSHOT</version>
         <name>com.github.kingsmentor:unicodenames-othersymbols-currency</name>
         <description>A Library that maps unicode to their name for easy referencing.</description>
         <url>https://github.com/KingsMentor/UnicodeNames</url>
