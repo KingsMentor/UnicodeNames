@@ -13,7 +13,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-      <gpg.executable>gpg</gpg.executable>
+      <gpg.executable>gpg2</gpg.executable>
       <gpg.keyname>2FC7553589934FE4</gpg.keyname>
       <gpg.passphrase>1password</gpg.passphrase>
       <gpg.defaultKeyring>false</gpg.defaultKeyring>
@@ -36,7 +36,7 @@
     <server>
   <id>github.com</id>
   <username>kingsmentor</username>
-  <password>3ff2c77f8dce0e5e36ce401dd181793ab0c728d9</password>
+  <password>dc7d9d7b8b74b3df2db873fbf11797d0dea117a4</password>
 </server>
 
   </servers>
