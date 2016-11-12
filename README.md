@@ -4,12 +4,9 @@ Categorizing unicodes and enabling easy references.
 
 ### Releases
 
-* currency
-
-`compile 'com.github.kingsmentor:unicodenames-othersymbols-currency:1.0'`
-
-[currency artifact](https://github.com/KingsMentor/UnicodeNames/blob/master/artifacts/UnicodeNames/OtherSymbols/unicodenames-othersymbols-currency-1.0.jar)
-
+| name        | category           | maven compile  | artifact link |
+| ------------- |:-------------:| -----:|:-------------:|
+| currency     | othersymbols | `compile 'com.github.kingsmentor:unicodenames-othersymbols-currency:1.0'` |[currency artifact](https://github.com/KingsMentor/UnicodeNames/blob/master/artifacts/UnicodeNames/OtherSymbols/unicodenames-othersymbols-currency-1.0.jar)|
 
 ### Usage
 ```
