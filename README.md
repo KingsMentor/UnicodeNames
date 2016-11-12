@@ -1,6 +1,6 @@
 # UnicodeNames
 
-Categorizing unicodes and enabling easy references. 
+Categorizing unicodes and enabling easy references.  [More details](http://belvi.xyz/posts/Charting-Unicodes)
 
 ### Releases
 
@@ -22,7 +22,7 @@ Categorizing unicodes and enabling easy references.
 ```
 
 ### Contribution
-You will agreee with me that it is a large project.
+You will agree with me that it is a large project.
 Considering the fact that one of the goal is to make it available in different programming languagues,the project needs a whole lot of volunteers.
 
 ### Gettting started with Contributing
