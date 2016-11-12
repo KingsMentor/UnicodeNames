@@ -30,4 +30,4 @@ Clone the codebase, see the project structure, make a pull request or possibly s
 
 
 #License
-The MIT License (MIT). Please see the [License File](https://github.com/KingsMentor/MobileVisionBarcodeScanner/blob/master/README.md) for more information.
+The MIT License (MIT). Please see the [License File](https://github.com/KingsMentor/UnicodeNames/blob/master/license) for more information.
